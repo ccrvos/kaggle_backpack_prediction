@@ -175,3 +175,8 @@ sample_submission.csv
 test.csv
 train.csv
 training_extra.csv
+predictions.csv
+*.pth
+main_files/
+*.html
+*.quarto_ipynb
